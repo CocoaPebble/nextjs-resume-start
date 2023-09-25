@@ -33,7 +33,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="mt-1 text-sm">
-          This résumé was generated with{' '}
+          This resume was generated with{' '}
           <a className="link" href="https://nextjs.org/">
             Next.js
           </a>{' '}
@@ -41,14 +41,7 @@ export const Footer: React.FC = () => {
           <a className="link" href="https://vercel.com/">
             Vercel
           </a>
-          . Learn how to deploy your own résumé with the{' '}
-          <a
-            className="link"
-            href="https://github.com/colinhemphill/nextjs-resume-generator"
-          >
-            nextjs-resume-generator
-          </a>
-          !
+          .
         </div>
       </div>
     </footer>
